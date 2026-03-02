@@ -1,1 +1,3 @@
 Hello World!!!
+
+This is a test for omitting the -m flag when committing in vscode.
